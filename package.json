@@ -1,0 +1,23 @@
+{
+  "name": "users-base",
+  "version": "1.0.0",
+  "description": "database of users",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/danielpalza/Users-Base.git"
+  },
+  "author": "Daniel Palza",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/danielpalza/Users-Base/issues"
+  },
+  "homepage": "https://github.com/danielpalza/Users-Base#readme",
+  "dependencies": {
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1"
+  }
+}
